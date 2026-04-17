@@ -1,0 +1,15 @@
+{
+  "name": "NodeJS and npm Starter",
+  "version": "1.0.0",
+  "description": "A more modern configuration and setup for Node with npm",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewuweblab/nodejs-npm-starter.git"
+  },
+  "homepage": "https://github.com/ewuweblab/nodejs-npm-starter#readme"
+}
